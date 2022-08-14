@@ -18,3 +18,15 @@ puts 'paralelepipedo'.count('p') #algunos metodos requieren de información para
 Leertexto = 'cuenta'
 cuenta = Leertexto.size
 puts Leertexto.size
+
+#metodo para numero entero sucesivo 
+
+numero_entero=6
+
+puts numero_entero.succ
+puts numero_siguiente=numero_entero.succ
+
+puts numero_siguiente/numero_entero 
+
+#el print se puede utilizar para colocar numeros en línea
+print 455677.digits
